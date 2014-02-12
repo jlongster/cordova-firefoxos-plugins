@@ -11,7 +11,7 @@ the plugins below.
 
 To contribute, fork any of the plugin repos and open PRs. It's best to
 let us know if you do that, by opening an issue here, or contact us in
-#apps on irc.mozilla.org.
+`#apps` on irc.mozilla.org.
 
 Plugin Status (see the individual plugin docs for details):
 

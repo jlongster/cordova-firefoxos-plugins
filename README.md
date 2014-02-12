@@ -1,9 +1,10 @@
-A place for Mozilla to track our Cordova work. All of the plugins are
-submodules that point to the real repository hosted by Apache. If you
-want to use the most up-to-date version of a plugin (with fixes that
-may not be released), use the github URL and specify the dev branch:
+A place for Mozilla to track our Cordova work. If you
+want to use one of these plugins that is just a folder, use the github URL and specify the plugin folder:
 
-$ `cordova plugin add https://github.com/apache/cordova-plugins-camera.git#dev`
+```
+$ cordova plugin add
+  https://github.com/jlongster/cordova-firefoxos-plugins.git#master/cordova-plugin-camera
+```
 
 If you just need the latest released version, just simply do `cordova
 plugin add org.apache.cordova.camera`. Replace "camera" with any of
